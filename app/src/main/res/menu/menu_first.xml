@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+            >
+    <item
+        android:id="@+id/exam"
+        android:icon="@drawable/iconoexam"
+        android:title="Examenes"
+        />
+    <item
+        android:id="@+id/clas"
+        android:icon="@drawable/iconoclass"
+        android:title="Clases"/>
+    <item
+        android:id="@+id/var"
+        android:icon="@drawable/iconovarios"
+        android:title="Varios"/>
+    <item
+        android:id="@+id/imagen"
+        android:icon="@drawable/iconoimagen"
+        android:title="Imagenes"/>
+    <item
+        android:id="@+id/docu"
+        android:icon="@drawable/iconopdf"
+        android:title="PDF"/>
+
+</menu>
